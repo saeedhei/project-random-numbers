@@ -1,0 +1,15 @@
+{
+  "name": "@saeedhei/random-numbers",
+  "version": "1.0.1",
+  "description": "A package to generate random numbers",
+  "main": "index.js",
+  "dependencies": {
+    "random": "^3.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
